@@ -1,6 +1,26 @@
 def my_collect(empty_array)
-
+  count = 0
+  array = []
+  my_collect(students) do |student|
+    student.split(" ").first
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

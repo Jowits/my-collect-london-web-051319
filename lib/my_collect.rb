@@ -1,8 +1,10 @@
 def my_collect(empty_array)
   count = 0
   array = []
-  my_collect(students) do |student|
-    student.split(" ").first
+  while count < empty_array.length
+    array << yield empty_array[i]
+  end
+  return array
 end
 
 

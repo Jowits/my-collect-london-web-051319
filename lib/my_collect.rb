@@ -7,25 +7,3 @@ def my_collect(empty_array)
   end
   return array
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
